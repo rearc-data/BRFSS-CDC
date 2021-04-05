@@ -7,14 +7,14 @@
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://github.com/rearc-data/BRFSS-CDC](https://github.com/rearc-data/BRFSS-CDC). 
 
 ## Main Overview
-This dataset derives information from Behvioral Risk Factor Surveillance System knows as BRFSS provided by CDC and has information on health care access and coverage. The data type is an age-adjusted prevalence. This dataset contains data for the years 2013,2014,2017,2018,2019. For more information please visit (CDC|BRFSS)[https://www.cdc.gov/brfss/index.html].
+This dataset derives information from Behvioral Risk Factor Surveillance System knows as BRFSS provided by CDC and has information on health care access and coverage. The data type is an age-adjusted prevalence. This dataset contains data for the years 2013,2014,2017,2018,2019. For more information please visit [CDC|BRFSS](https://www.cdc.gov/brfss/index.html).
 
 #### Data Source
 The Data is in CSV format and file contains unique columns.
 ## More Information
-- Source: (BRFSS|Prevalence Data)[https://www.cdc.gov/brfss/brfssprevalence/index.html]     
-- (CDC)[https://www.cdc.gov]
--(Terms of Use)[https://www.cdc.gov/other/privacy.html]
+- Source: [BRFSS|Prevalence Data](https://www.cdc.gov/brfss/brfssprevalence/index.html)     
+- [CDC](https://www.cdc.gov)
+-[Terms of Use](https://www.cdc.gov/other/privacy.html)
 - Frequency:Annually
 - Formats:CSV
 
