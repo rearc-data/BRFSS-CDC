@@ -4,7 +4,7 @@
 
 # 
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://github.com/rearc-data/BRFSS-CDC](https://github.com/rearc-data/BRFSS-CDC). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-bdr34cxhxm3c4?qid=1617788985460&sr=0-1&ref_=srh_res_product_title](https://aws.amazon.com/marketplace/pp/prodview-bdr34cxhxm3c4?qid=1617788985460&sr=0-1&ref_=srh_res_product_title). 
 
 ## Main Overview
 This dataset derives information from Behvioral Risk Factor Surveillance System knows as BRFSS provided by CDC and has information on health care access and coverage. The data type is an age-adjusted prevalence. This dataset contains data for the years 2013,2014,2017,2018,2019.The Data updates on yearly basis.
